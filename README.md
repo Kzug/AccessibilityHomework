@@ -13,3 +13,13 @@ How I made the code more semantic:
 2) changed div footer in the same way
 
 3) added nav tag inside header, deleted div - also changed css
+
+4) consolidated classes in main section and side section
+
+5) added comments to html and css
+
+6) replaced the side section class div with an aside class 
+
+7) replaced divs with sections
+
+8) added alts to images
