@@ -24,3 +24,5 @@ How I made the code more semantic:
 
 8) added alts to images
 
+
+![alt text for screen readers](ScreenshotAccessibiltyHomework.png).
