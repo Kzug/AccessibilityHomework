@@ -23,3 +23,4 @@ How I made the code more semantic:
 7) replaced divs with sections
 
 8) added alts to images
+
